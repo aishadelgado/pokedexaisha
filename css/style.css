@@ -1,3 +1,19 @@
-body {
+#index {
     background-image: url('../img/kanto-map.jpeg');
+    margin: auto;
+}
+#pokedex {
+    margin-left: 700px;
+    margin-right: 700px;
+    background-color: rgba(0, 0, 0, 0.47);
+    color: white;
+}
+ul {
+    color: solid black;
+}
+#lista {
+    color: white;
+}
+#Cyndaquil {
+
 }
