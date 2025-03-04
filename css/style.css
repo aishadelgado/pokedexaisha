@@ -16,18 +16,18 @@ ul {
     list-style-type: disc;
 }
 #lista {
-    color: white;
+    color: black;
 }
 #ir {
     text-decoration: none;
     color: white;
 }
-#Cyndaquil {
+#titulopokemon {
     font-family: 'Press Start 2P', cursive;
     margin-left: 650px;
     margin-right: 650px;
 }
-#Cyndaquil2 {
+#textopokemon {
     font-family: 'Press Start 2P', cursive;
 }
 #volver {
@@ -39,11 +39,44 @@ ul {
     padding: 5px;
     display: inline-block;
 }
-#gengar {
-    font-family: 'Press Start 2P', cursive;
-    margin-left: 650px;
-    margin-right: 650px;
+#foto {
+    width: 20%;
+    height: auto;
 }
-#Gengar {
-    font-family: 'Press Start 2P', cursive;
+.dragon {
+    background: linear-gradient(to right, rgb(251, 72, 72), rgb(104, 104, 255));
+    padding: 5px;
+}
+.volador {
+    background: linear-gradient(to right, rgb(148, 193, 255), rgb(175, 175, 175));
+    padding: 5px;
+}
+.psiquico {
+    background-color: rgb(245, 128, 148);
+    padding: 5px;
+}
+.fantasma {
+    background-color: rgb(86, 21, 147);
+    color: white;
+    padding: 5px;
+}
+.veneno {
+    background-color: rgb(148, 0, 148);
+    color: white;
+    padding: 5px;
+}
+.fuego {
+    background-color: rgb(255, 89, 0);
+    color: white;
+    padding: 5px;
+}
+#quilavapng {
+    width: 10%;
+    height: auto;
+    float: right;
+}
+#typhlosionpng {
+    width: 10%;
+    height: auto;
+    float: right;
 }
