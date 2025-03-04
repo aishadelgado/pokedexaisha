@@ -1,19 +1,49 @@
 #index {
     background-image: url('../img/kanto-map.jpeg');
     margin: auto;
+    font-family: 'Press Start 2P', cursive;
 }
 #pokedex {
-    margin-left: 700px;
-    margin-right: 700px;
+    margin-left: 650px;
+    margin-right: 650px;
     background-color: rgba(0, 0, 0, 0.47);
     color: white;
+    padding: 5px;
+    display: inline-block;
 }
 ul {
     color: solid black;
+    list-style-type: disc;
 }
 #lista {
     color: white;
 }
+#ir {
+    text-decoration: none;
+    color: white;
+}
 #Cyndaquil {
-
+    font-family: 'Press Start 2P', cursive;
+    margin-left: 650px;
+    margin-right: 650px;
+}
+#Cyndaquil2 {
+    font-family: 'Press Start 2P', cursive;
+}
+#volver {
+    text-decoration: none;
+    font-family: 'Press Start 2P', cursive;
+    margin-left: 650px;
+    background-color: rgba(255, 0, 0, 0.904);
+    color: white;
+    padding: 5px;
+    display: inline-block;
+}
+#gengar {
+    font-family: 'Press Start 2P', cursive;
+    margin-left: 650px;
+    margin-right: 650px;
+}
+#Gengar {
+    font-family: 'Press Start 2P', cursive;
 }
