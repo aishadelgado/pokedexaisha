@@ -80,3 +80,16 @@ ul {
     height: auto;
     float: right;
 }
+#haunterpng {
+    width: 10%;
+    height: auto;
+}
+#gastlypng {
+    width: 10%;
+    height: auto;
+}
+#background {
+    background-image: url('../img/background.jpg');
+    margin: auto;
+    font-family: 'Press Start 2P', cursive;
+}
